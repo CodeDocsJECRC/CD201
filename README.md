@@ -7,14 +7,15 @@ CodeDocs course 201 for session 2018-19: odd semester
 
 | Lecture | Topics | 
 | ----- | ----- | 
-| Lecture 0 | Getting started with the web | 
-| Lecture 1 | HTML - Structuring the web | 
-| Lecture 2 | CSS - Styling the web | 
-| Lecture 3 | JavaScript | 
-| Lecture 4 | Dynamic client-side scripting | 
-| Lecture 5 | Server side website programming | 
-| Lecture 6 | Browser APIs and Third party APIs | 
-| Lecture 7 | Introduction to frameworks, libraries and essential tools |
+| Lecture 0 | Getting started with HTML | 
+| Lecture 1 | CSS - Styling the Web | 
+| Lecture 2 | Responsive Web Design | 
+| Lecture 3 | Javascript Fundamentals | 
+| Lecture 4 | Client Side Scripting | 
+| Lecture 5 | Server Side Scripting | 
+| Lecture 6 | Introduction to CRUD | 
+| Lecture 7 | Working with database |
+| Lecture 8 | Introduction to frameworks, libraries and essential tools |
 
 ## Android Development
 | Lecture | Topics | 
