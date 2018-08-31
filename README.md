@@ -54,6 +54,9 @@ CodeDocs course 201 for session 2018-19: odd semester
 
 ## Graphic Designing
 **Course Admin** : Soumil Khandelwal ([@soumilk](https://github.com/soumilk))
+
+| Lecture | Topics | 
+| ----- | ----- |
 | Lecture 0 |Introduction to Photoshop Tools| 
 | Lecture 1 |Layer Blending Modes |
 | Lecture 2 |Layer mask and photo manupulation | 
