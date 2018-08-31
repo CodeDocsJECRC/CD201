@@ -6,6 +6,7 @@ CodeDocs course 201 for session 2018-19: odd semester
 ## Web Development
 **Course Admin** : Akshay Sharma ([@Akshaysharma](https://github.com/akshaysharma2277)) 
 **Mentors** : Amrit Srivastava ([@amritsrivastava](https://github.com/amritsrivastava)), Aditya Agarwal ([@aditya81070](https://github.com/aditya81070)), Abhishek Mohata([@amohata007](https://github.com/amohata007)) 
+
 | Lecture | Topics | 
 | ----- | ----- | 
 | Lecture 0 | Getting started with HTML | 
@@ -21,6 +22,7 @@ CodeDocs course 201 for session 2018-19: odd semester
 ## Android Development
 **Course Admin** : Namandeep Singh ([@nd-singh](https://github.com/nd-singh))
 **Mentors** : Soumil Khandelwal ([@soumilk](https://github.com/soumilk)), Yukti Goswami ([@ukigos](https://github.com/ukigos)), Abhimanyu Shekhawat ([@abhimanyu121](https://github.com/abhimanyu121))
+
 | Lecture | Topics | 
 | ----- | ----- |
 | Lecture 0 |Getting started with Android and Android architecture | 
